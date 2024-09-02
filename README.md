@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, My Name is Jay Im a Full Stack Web Development student looking to learn new things everyday... anybody can reach me at my email: marmoljay@hotmail.com! 
 
 <!--
 **jmg1410/jmg1410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
